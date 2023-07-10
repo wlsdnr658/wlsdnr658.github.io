@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Portfolio
+title: Example
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: portfolio
+slug: example
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  포트폴리오
+  example
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
