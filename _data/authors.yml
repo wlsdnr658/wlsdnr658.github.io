@@ -2,33 +2,29 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <JinWook> <Moon>
-  email:             <wlsdnr568@gmail.com>
+  name:              진욱
+  email:             wlsdnr568@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    개발 공부/연구 블로그
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/img
+    path:            /assets/img/me.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            me.jpg
-      2x:            me.jpg
+      1x:            /assets/img/me.jpg
+      2x:            /assets/img/me.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    github:          wlsdnr658
+    email:           wlsdnr568@gmail.com
+    #twitter:         <username>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
